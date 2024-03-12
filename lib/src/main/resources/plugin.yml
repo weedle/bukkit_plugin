@@ -1,0 +1,10 @@
+name: Pray
+main: com.ionsid.BukkitPlugin
+version: 1.0
+author: <your IGN or name>
+commands:
+  pray:
+    description: Pray to the lag gods.
+    usage: /pray
+    permission: BukkitPlugin.pray
+    permission-message: You don't have <permission>
